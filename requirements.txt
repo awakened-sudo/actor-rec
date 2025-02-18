@@ -1,0 +1,10 @@
+from typing import runtime_checkable
+
+
+torch
+numpy
+opencv-python
+pillow
+face_recognition
+torchvision
+runtime_checkable

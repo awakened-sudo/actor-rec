@@ -1,0 +1,45 @@
+[{
+    "scene_start": "00:02:14",
+    "scene_end": "00:02:45",
+    "frames": {
+      "description": "A black and white photo showing P. Ramlee in a formal suit having a discussion with several colleagues in casual attire.",
+      "sampled_frames": [
+        "temp_processing/frames/image.jpg"
+      ]
+    },
+    "cast": ["p_ramlee"]
+  },
+  {
+    "scene_start": "00:15:33",
+    "scene_end": "00:16:10",
+    "frames": {
+      "description": "Three men in traditional Malay clothing standing outdoors, appearing to be in conversation or performing.",
+      "sampled_frames": [
+        "temp_processing/frames/image copy.jpg"
+      ]
+    },
+    "cast": ["p_ramlee"]
+  },
+  {
+    "scene_start": "00:45:22",
+    "scene_end": "00:46:15",
+    "frames": {
+      "description": "P. Ramlee and a female companion at what appears to be an awards ceremony, both holding trophies and smiling.",
+      "sampled_frames": [
+        "temp_processing/frames/image copy 2.jpg"
+      ]
+    },
+    "cast": ["p_ramlee"]
+  },
+  {
+    "scene_start": "01:12:45",
+    "scene_end": "01:13:20",
+    "frames": {
+      "description": "A colorized photo showing P. Ramlee holding a young child, both smiling, with purple flowers visible in the background.",
+      "sampled_frames": [
+        "temp_processing/frames/image copy 3.jpg"
+      ]
+    },
+    "cast": ["p_ramlee"]
+  }
+]
